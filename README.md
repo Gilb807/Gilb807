@@ -1,49 +1,49 @@
-👋 Olá, eu sou o Gilberto "JUBA" Márcio
+👨‍💻 Olá, eu sou o Gilberto Márcio
 
-Desenvolvedor criativo e empreendedor digital, especialista em soluções acessíveis para pequenos negócios, microempreendedores e projetos com impacto positivo. Crio sites, automações, apps e jogos interativos com foco em resultado, mesmo usando apenas o celular.
+Desenvolvedor criativo e empreendedor digital, especializado em soluções acessíveis e inovadoras para pequenos negócios, microempreendedores e projetos com impacto positivo. Desenvolvo sites, automações, aplicativos e jogos interativos com foco em performance, presença digital e crescimento sustentável.
 
-🔄 Em andamento:
+🔄 Projetos em destaque:
 
-🍕 Pizza Master Tycoon – Jogo interativo com economia real usando o token CalabrinCoin
+🍕 Pizza Master Tycoon – Jogo interativo com economia gamificada, integrado ao token CalabrinCoin
 
-💸 CalabrinCoin – Token para fidelização e cashback no mercado de alimentos
+💸 CalabrinCoin – Token voltado para fidelização, cashback e economia colaborativa no setor alimentício
 
-✨ Pacote Digital Premium – Sites, cardápios, chatbot e identidade visual para pequenos negócios
+✨ Pacote Digital Premium – Soluções digitais completas: sites, cardápios interativos, automações e identidade visual
 
-⛪ Além do Jardim – App cristão com jornadas de cura, devocionais e marketplace com IA
-
-
-🎡 Portfólio de Serviços
-
-Sites institucionais responsivos
-
-Cardápios digitais com IA integrada
-
-Chatbot para WhatsApp Business
-
-Identidade visual básica
-
-Páginas de vendas e automações no-code
+⛪ Além do Jardim – Aplicativo cristão com jornadas de cura, devocionais, marketplace e ferramentas com IA
 
 
-> 📞 Pronto para te ajudar a colocar seu negócio no digital com profissionalismo e agilidade.
+🎨 Portfólio de Serviços
+
+Desenvolvimento de sites institucionais modernos e responsivos
+
+Cardápios digitais com inteligência artificial integrada
+
+Chatbots personalizados para WhatsApp Business
+
+Identidade visual para marcas e perfis comerciais
+
+Páginas de vendas, automações e soluções no-code sob medida
+
+
+> 📞 Pronto para levar seu projeto digital a um novo nível, com agilidade, design de impacto e resultado.
 
 
 
 🚀 Vamos conversar?
 
-WhatsApp: clique aqui para conversar
+WhatsApp: Clique aqui para falar agora
 
 E-mail: premier.midia01@gmail.com
 
 Instagram: @rocha_digital55
 
 
-📉 Estatísticas GitHub
+📊 Estatísticas GitHub
 
 
 
 
 ---
 
-✉ï¸ Quer um site, automação ou projeto de impacto? Me chama no WhatsApp e vamos criar algo extraordinário juntos!
+✉️ Quer um site, automação ou projeto personalizado? Me chama no WhatsApp e vamos criar algo extraordinário juntos
