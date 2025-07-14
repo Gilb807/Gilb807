@@ -1,4 +1,4 @@
-<img src="arquivo_00000000bfbc61fdadcc769d88a0c49a.png" alt="Capa Gilberto Márcio" style="width:100%; border-radius: 12px;" />" />👨‍💻 Olá, eu sou o Gilberto Márcio
+<img src="arquivo_00000000bfbc61fdadcc769d88a0c49a.png" alt="Capa Gilberto Márcio" style="width:100%; border-radius: 12px;" />👨‍💻 Olá, eu sou o Gilberto Márcio
 
 Desenvolvedor criativo e empreendedor digital, especializado em soluções acessíveis e inovadoras para pequenos negócios, microempreendedores e projetos com impacto positivo. Desenvolvo sites, automações, aplicativos e jogos interativos com foco em performance, presença digital e crescimento sustentável.
 
