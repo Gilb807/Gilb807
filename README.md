@@ -1,4 +1,4 @@
-👨‍💻 Olá, eu sou o Gilberto Márcio
+<img src="A_digital_graphic_design_features_a_professional_d.png" alt="Capa Gilberto Márcio" style="width:100%; border-radius: 12px;" />👨‍💻 Olá, eu sou o Gilberto Márcio
 
 Desenvolvedor criativo e empreendedor digital, especializado em soluções acessíveis e inovadoras para pequenos negócios, microempreendedores e projetos com impacto positivo. Desenvolvo sites, automações, aplicativos e jogos interativos com foco em performance, presença digital e crescimento sustentável.
 
@@ -46,4 +46,4 @@ Instagram: @rocha_digital55
 
 ---
 
-✉️ Quer um site, automação ou projeto personalizado? Me chama no WhatsApp e vamos criar algo extraordinário juntos
+✉️ Quer um site, automação ou projeto personalizado? Me chama no WhatsApp e vamos criar algo extraordinário juntos!
